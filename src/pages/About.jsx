@@ -1,8 +1,6 @@
 
-const About = ({ value }) => {
-    return <span
-        className="text-white-50 text-4xl"
-    >{value}</span>
+const About = () => {
+    return <h1>About!</h1>
 }
 
 export default About;

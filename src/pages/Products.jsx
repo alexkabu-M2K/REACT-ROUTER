@@ -1,8 +1,6 @@
 
-const Products = ({ value }) => {
-    return <span
-        className="text-white-50 text-4xl"
-    >{value}</span>
+const Products = () => {
+    return <h1>Products!</h1>
 }
 
 export default Products;

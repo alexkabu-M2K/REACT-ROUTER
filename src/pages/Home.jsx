@@ -1,8 +1,6 @@
 
-const Home = ({ value }) => {
-    return <span
-        className="text-white-50 text-4xl"
-    >{value}</span>
+const Home = () => {
+    return <h1>Home!</h1>
 }
 
 export default Home;
