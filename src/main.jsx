@@ -9,7 +9,7 @@ const root = document.querySelector('#root');
 createRoot(root).render(
   <StrictMode>
     <BrowserRouter>
-    <App />
+      <App />
     </BrowserRouter>
   </StrictMode>
 );
