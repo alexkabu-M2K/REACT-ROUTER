@@ -8,8 +8,8 @@
 }
 
 header {
-  background-color: #5058b0;
-  padding: 10px 150px;
+  background-color: #4d9f46;
+  padding: 10px 100px;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -17,7 +17,7 @@ header {
   a {
     display: block;
     padding: 10px;
-    font-size: 24px;
+    font-size: 20px;
     color: #FFF;
 
     &:hover {
